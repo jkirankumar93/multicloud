@@ -1,0 +1,3 @@
+this is for webhook practice 
+webhook job is used to whenever the developer commit the new code into the repository 
+the jenkins triggerd and pulling the latestcode immediatly no need to wait for hrs
